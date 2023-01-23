@@ -14,7 +14,7 @@ body {
 /* Start of Header Section Styling */
 header {
     padding: 20px 35px;
-    background-color: #024e76;
+    background-color: #A07189;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -31,13 +31,13 @@ header h1 {
     font-weight: bold;
     margin: 0;
     font-size: 36px;
-    color: #fce138;
+    color: #53917e;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 header a {
     text-decoration: none;
-    color: #fce138;
+    color: #53917e;
 }
   
 header nav {
@@ -76,7 +76,7 @@ footer {
 }
   
 footer h2 {
-    color: #024e76;
+    color: #A07189;
     font-size: 30px;
     margin: 0;
 }
@@ -98,15 +98,15 @@ section {
 .hero h2 {
     font-style: normal;
     font-size: 30px;
-    color: #024e76;
+    color: #63535B;
     float: right;
-    background-color: #fce138;
+    background-color: #53917e;
 }
 /* End of Hero Section Styling */
 
 /* Start of Main Sections Content Styling */
 .section {
-    background-color: #024e76;
+    background-color: #63535B;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -119,12 +119,12 @@ section {
     flex-wrap: wrap;
     justify-content: flex-end;
     font-size: 35px;
-    color: #fce138;
+    color: #53917e;
     margin: 0 auto 0 auto;
     padding-right: 15px;
     width: 10%;
     text-align: end;
-    border-right: #fce138 solid 3px;
+    border-right: #53917e solid 3px;
 }
 
 /* "Work" Section Title's Styling */
@@ -133,10 +133,39 @@ section {
     flex-wrap: wrap;
     justify-content: flex-end;
     font-size: 35px;
-    color: #fce138;
+    color: #53917e;
     margin: 0 auto 0 auto;
     padding-right: 15px;
     width: 10%;
     text-align: end;
     height: 1250px;
+}
+
+/* "About Me" and "Contact Me" Section Contents' Styling */
+.flex-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    width: 90%;
+}
+
+/* "Work" Section Content Stlyling */
+.flex-row2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    width: 90%;
+    border-left: #53917e solid 3px;
+}
+
+/* Photo of Jaspreet */
+.photo {
+    width: 10%;
+    height: auto;
+    padding-left: 1%;
 }
