@@ -169,3 +169,38 @@ section {
     height: auto;
     padding-left: 1%;
 }
+
+/* Section Font and Anchor Elements Styling */
+.section p, .section a {
+    line-height: 1.5;
+    color: #53917e;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 30px;
+    text-align: center;
+    padding: 0 15px 0 15px;
+}
+
+/* "Work" Section Font Styling */
+.flex-row2 p {
+    display: inline-block;
+    text-align: start;
+    background-color: darkred;
+    opacity: 85%;
+    width: 45%;
+    position: absolute;
+    bottom: 10%;
+    left: 0%;
+}
+
+/* Main Project Section Styling */
+.main-project {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    height: 650px;
+    width: 100%;
+}
+
