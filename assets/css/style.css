@@ -65,3 +65,78 @@ header nav ul li a:hover {
     text-shadow: none;
 }  
 /* End of Header Section Styling */
+
+/* Start of Footer Section Styling */
+footer {
+    padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+  
+footer h2 {
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+/* End of Footer Section Styling */
+
+/* Section Global Styling */
+section {
+    padding: 60px;
+}
+  
+/* Start of Hero Section Styling */
+.hero {
+    background-image: url('../images/alvaro-pinot-czDvRp5V2b0-unsplash.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 80%;    
+}
+
+.hero h2 {
+    font-style: normal;
+    font-size: 30px;
+    color: #024e76;
+    float: right;
+    background-color: #fce138;
+}
+/* End of Hero Section Styling */
+
+/* Start of Main Sections Content Styling */
+.section {
+    background-color: #024e76;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* "About Me" and "Contact Me" Sections Titles' Styling */
+.section-title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    font-size: 35px;
+    color: #fce138;
+    margin: 0 auto 0 auto;
+    padding-right: 15px;
+    width: 10%;
+    text-align: end;
+    border-right: #fce138 solid 3px;
+}
+
+/* "Work" Section Title's Styling */
+.section-title2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    font-size: 35px;
+    color: #fce138;
+    margin: 0 auto 0 auto;
+    padding-right: 15px;
+    width: 10%;
+    text-align: end;
+    height: 1250px;
+}
