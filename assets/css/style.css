@@ -204,3 +204,29 @@ section {
     width: 100%;
 }
 
+/* Others Projects Section Styling */
+.side-projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    flex-direction: row;
+    width: 100%;
+}
+
+/* Main Project Image Styling */
+.surf-report {
+    background-image: url("../images/letseatadeal.png");
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    margin: 0 1% 2% 1%;
+    border: darkred 5px solid;
+    position: relative;
+}
+
+/* Main Project Hover Styling */
+.surf-report:hover {
+    opacity: 75%;
+}
