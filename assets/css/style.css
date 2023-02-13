@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+header>*{
+    flex: 1;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+}
+
+#about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#about>*{
+    flex: 1;
+}
+.about-me-text{
+text-align: center;
+}
+
+#work{
+    display: flex;
+    flex-direction: column;
+}
+
+#work>*{
+    flex: 1;
+}
+
+#contact{
+    display: flex;
+    flex-direction: column;
+}
+
+#contact>*{
+    flex: 1;
+}
