@@ -1,4 +1,5 @@
 # TiannaJPortfolio
+URL: https://tiannaj23.github.io/TiannaJPortfolio/
 
 ## Description
 
@@ -17,3 +18,5 @@ To navigate Tianna's Portfolio website, you can click on the descriptive links t
 ## Mock-Up
 
 The following screenshot shows the deployed website and the link will take you to actual live website.
+
+![screen shot](./images/Tianna'sPortfolio.jpeg)
