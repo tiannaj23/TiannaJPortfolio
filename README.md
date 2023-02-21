@@ -19,4 +19,4 @@ To navigate Tianna's Portfolio website, you can click on the descriptive links t
 
 The following screenshot shows the deployed website and the link will take you to actual live website.
 
-![screen shot](./images/Tianna'sPortfolio.jpeg)
+![screen shot](./images/Portfolio.jpeg)
