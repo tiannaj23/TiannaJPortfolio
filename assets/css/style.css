@@ -74,7 +74,9 @@ text-align: center;
     height: 200px;
     width: 200px;
     margin: 1rem;
+    text-align: center;
 }
+
 .project-Two{
     background-image: url(../../images/Project-2.jpg);
     background-size: cover;
@@ -83,6 +85,7 @@ text-align: center;
     height: 200px;
     width: 200px;
     margin: 1rem;
+    text-align: center;
 }
 
 .project-Three{
@@ -93,6 +96,7 @@ text-align: center;
     height: 200px;
     width: 200px;
     margin: 1rem;
+    text-align: center;
 }
 
 .project-Four {
@@ -103,6 +107,7 @@ text-align: center;
     height: 200px;
     width: 200px;
     margin: 1rem;
+    text-align: center;
 }
 
 #contact{
