@@ -61,6 +61,7 @@ text-align: center;
 #work>*{
     flex: 1;
 }
+
 .projectContainer{
     display: flex;
     flex-wrap: wrap;
