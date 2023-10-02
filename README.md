@@ -3,7 +3,7 @@
 ## Description
 Tianna's Portfolio Website is intended to showcase who I am, sections about me, my work, and how you can contact me.
 
-- https://tiannaj23.github.io/TiannaJPortfolio/
+- http://127.0.0.1:5500/index.html
 
 
 ## Table of Contents
